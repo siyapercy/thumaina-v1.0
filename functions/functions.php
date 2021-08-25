@@ -3,7 +3,7 @@
 function connect() {
     static $conn;
     if ($conn === NULL){ 
-        $conn = mysqli_connect('remotemysql.com','iVyN3ENrNP','brv22HaQHg','iVyN3ENrNP');
+        $conn = mysqli_connect('remotemysql.com','1SFzjpKben','K6r2D9wwEy','1SFzjpKben');
     }
     return $conn;
 }
