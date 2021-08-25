@@ -1,5 +1,5 @@
-DROP DATABASE socialnetwork;
-CREATE DATABASE socialnetwork;
+DROP DATABASE iVyN3ENrNP;
+CREATE DATABASE iVyN3ENrNP;
 
 CREATE TABLE users (
 user_id             INT NOT NULL AUTO_INCREMENT,
